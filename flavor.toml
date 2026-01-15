@@ -119,12 +119,12 @@ hovered = { fg = "#bb9af7", underline = true }
 # : Which {{{
 
 [which]
-mask            = { bg = "#414868" }
+mask            = { bg = "#16161e" }
 cand            = { fg = "#9ece6a" }
 rest            = { fg = "#a9b1d6" }
 desc            = { fg = "#bb9af7" }
 separator       = "  "
-separator_style = { fg = "#626880" }
+separator_style = { fg = "#414868" }
 
 # : }}}
 
